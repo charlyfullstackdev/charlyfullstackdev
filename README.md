@@ -5,45 +5,15 @@
 
 <div align="center">
 
-![Carlos Rodriguez — Full Stack Software Developer](github-banner.png)
-
-<br>
+![Carlos Rodriguez — Full Stack Software Developer](charlyfullstack-main-cover.png)
 
 # Carlos Rodriguez
+
+## @charlyfullstack
 
 ### Full Stack Software Developer
 
 *Engineered with precision. Secured by design. Powered by continuous learning.*
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=charlyfullstackdev&color=6e40c9&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/charlyfullstackdev?style=for-the-badge&logo=github&logoColor=white&color=6e40c9&label=Followers)
-
----
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573113583866)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/573113583866)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/charlyfullstack)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charlyfullstackdev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://charlyfullstackdev.github.io)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://charlyfullstack.blogspot.com)
-
-<br>
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/charlyfullstack)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/charlyfullstack)
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.com/@charlyfullstack)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CharlyFullStack)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@charlyfullstackdev)
-
-<br>
-
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/charlyfullstack)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1515750751425790003)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/charlyfullstack.bsky.social)
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@charlyfullstack)
-[![Daily.dev](https://img.shields.io/badge/Daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white)](https://daily.dev/charlyfullstack)
 
 </div>
 
@@ -123,20 +93,6 @@ English proficiency at **C1** level under the Common European Framework of Refer
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charlyfullstackdev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=charlyfullstackdev&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charlyfullstackdev&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## Current Focus
 
 Active priorities in my current development workflow:
@@ -151,7 +107,7 @@ Active priorities in my current development workflow:
 - [ ] CI/CD pipeline architecture and container-based deployment
 
 > [!TIP]
-> Available for collaboration on projects where **security**, **performance**, and **artificial intelligence** converge. Reach out via [LinkedIn](https://www.linkedin.com/in/charlyfullstack) or [Telegram](https://t.me/573113583866).
+> Available for collaboration on projects where **security**, **performance**, and **artificial intelligence** converge.
 
 ---
 
@@ -219,9 +175,23 @@ Projects and contributions I am most aligned with:
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://charlyfullstackdev.github.io)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/charlyfullstack)
-[![Blog](https://img.shields.io/badge/Read_the_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://charlyfullstack.blogspot.com)
+<!-- Links to social -->
+
+### Conecct with me!
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://charlyfullstack.tech)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/charlyfullstackdev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/charlyfullstack)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.com/@charlyfullstack)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/charlyfullstack)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@charlyfullstackdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/charlyfullstack)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/charlyfullstack)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1515750751425790003)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/charlyfullstack.bsky.social)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@charlyfullstack)
+[![Daily.dev](https://img.shields.io/badge/Daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white)](https://daily.dev/charlyfullstack)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://charlyfullstack.blogspot.com)
 
 </div>
 
