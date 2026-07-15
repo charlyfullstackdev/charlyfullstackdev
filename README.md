@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Carlos Rodriguez — Full Stack Software Developer](charlyfullstack-main-cover.png)
+![Carlos Rodriguez — Full Stack Software Developer](charly-main-cover.png)
 
 # Carlos Rodriguez
 
@@ -163,7 +163,7 @@ Projects and contributions I am most aligned with:
 
 > "Write code that you would be proud to hand to a stranger — or to your future self debugging a production incident at 3 AM."
 >
-> > — *Carlos Rodriguez*
+> > — *Carlos Andres Rodriguez*
 
 ---
 
@@ -177,7 +177,7 @@ Projects and contributions I am most aligned with:
 
 <!-- Links to social -->
 
-### Conecct with me!
+<!-- ### Conecct with me!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://charlyfullstack.tech)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/charlyfullstackdev)
@@ -191,7 +191,7 @@ Projects and contributions I am most aligned with:
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/charlyfullstack.bsky.social)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@charlyfullstack)
 [![Daily.dev](https://img.shields.io/badge/Daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white)](https://daily.dev/charlyfullstack)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://charlyfullstack.blogspot.com)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://charlyfullstack.blogspot.com) -->
 
 </div>
 
