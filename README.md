@@ -1,15 +1,15 @@
 <!-- ============================================================ -->
-<!-- Carlos Rodriguez — Full Stack Software Developer             -->
+<!-- Carlos Andres Rodriguez — Full Stack Software Developer             -->
 <!-- GitHub Profile README · github.com/charlyfullstackdev        -->
 <!-- ============================================================ -->
 
 <div align="center">
 
-![Carlos Rodriguez — Full Stack Software Developer](charly-main-cover.png)
+![Carlos Andres Rodriguez — Full Stack Software Developer](charly-main-cover.png)
 
-# Carlos Rodriguez
+# Carlos Andres Rodriguez
 
-## @charlyfullstack
+## @charlyfullstackdev
 
 ### Full Stack Software Developer
 
@@ -169,7 +169,7 @@ Projects and contributions I am most aligned with:
 
 <div align="center">
 
-**charlyfullstackdev** &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; Colombia
+**charlyfullstackdev** &nbsp;·&nbsp; Full Stack Software Developer &nbsp;·&nbsp; Colombia
 
 *Available for freelance projects, open source collaboration, and technical consulting.*
 
