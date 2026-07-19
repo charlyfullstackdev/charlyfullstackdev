@@ -22,7 +22,7 @@ I architect technical solutions with an uncompromised focus on logic, security, 
 **UI / UX** | **Minimalist Interface Design** | **Generative A.I. Integrations**
 
 ### Professional Capabilities
-**Digital Marketing** | **Typing: 40 WPM** | **Spanish (Native)** | **English (C1)**
+**Digital Marketing** | **Spanish (Native)** | **English (C1)**
 
 ---
 
