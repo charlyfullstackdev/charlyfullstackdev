@@ -1,6 +1,6 @@
 ![charlyfullstackdev Banner](charly-main-cover.png)
 
-# charlyfullstackdev
+# Carlos Andres Rodriguez @charlyfullstackdev
 **Fullstack Software Developer | Tech Entrepreneur | Digital Creator**
 
 > Engineering robust, scalable, and secure digital solutions. Driven by a systemic approach and Agile methodologies, transforming complexity into streamlined, high-performance systems.
