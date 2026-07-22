@@ -35,8 +35,6 @@ I architect technical solutions with an uncompromised focus on logic, security, 
 [![Daily.dev](https://img.shields.io/badge/Daily.dev-%230B1120.svg?style=for-the-badge&logo=dailydotdev&logoColor=%23F8FAFC&borderColor=%2306B6D4)](https://daily.dev/charlyfullstackdev)
 [![Discord](https://img.shields.io/badge/Discord-%230B1120.svg?style=for-the-badge&logo=discord&logoColor=%23F8FAFC&borderColor=%2306B6D4)](https://discord.com/users/1515750751425790003)
 [![Reddit](https://img.shields.io/badge/Reddit-%230B1120.svg?style=for-the-badge&logo=reddit&logoColor=%23F8FAFC&borderColor=%2306B6D4)](https://reddit.com/user/charlyfullstackdev)
-[![Threads](https://img.shields.io/badge/Threads-%230B1120.svg?style=for-the-badge&logo=threads&logoColor=%23F8FAFC&borderColor=%2306B6D4)](https://threads.com/charlyfullstackdev)
-[![Instagram](https://img.shields.io/badge/Instagram-%230B1120.svg?style=for-the-badge&logo=instagram&logoColor=%23F8FAFC&borderColor=%2306B6D4)](https://instagram.com/charlyfullstackdev)
 [![Facebook](https://img.shields.io/badge/Facebook-%230B1120.svg?style=for-the-badge&logo=facebook&logoColor=%23F8FAFC&borderColor=%2306B6D4)](https://facebook.com/charlyfullstackcommunity)
 [![Bluesky](https://img.shields.io/badge/Bluesky-%230B1120.svg?style=for-the-badge&logo=bluesky&logoColor=%23F8FAFC&borderColor=%2306B6D4)](https://bsky.app/profile/charlyfullstackdev)
 [![Mastodon](https://img.shields.io/badge/Mastodon-%230B1120.svg?style=for-the-badge&logo=mastodon&logoColor=%23F8FAFC&borderColor=%2306B6D4)](https://mastodon.social/@charlyfullstackdev)
