@@ -42,4 +42,4 @@ I architect technical solutions with an uncompromised focus on logic, security, 
 [![TikTok](https://img.shields.io/badge/TikTok-%230B1120.svg?style=for-the-badge&logo=tiktok&logoColor=%23F8FAFC&borderColor=%2306B6D4)](https://tiktok.com/@charlyfullstackdev)
 [![YouTube](https://img.shields.io/badge/YouTube-%230B1120.svg?style=for-the-badge&logo=youtube&logoColor=%23F8FAFC&borderColor=%2306B6D4)](https://youtube.com/@charlyfullstackdev)
 [![Twitch](https://img.shields.io/badge/Twitch-%230B1120.svg?style=for-the-badge&logo=twitch&logoColor=%23F8FAFC&borderColor=%2306B6D4)](https://twitch.tv/charlyfullstackdev)
-[![Blogspot](https://img.shields.io/badge/Blogspot-%230B1120.svg?style=for-the-badge&logo=blogger&logoColor=%23F8FAFC&borderColor=%2306B6D4)](https://charlyfullstackcommunity.blogspot.com)
+[![Blogspot](https://img.shields.io/badge/Blogspot-%230B1120.svg?style=for-the-badge&logo=blogger&logoColor=%23F8FAFC&borderColor=%2306B6D4)](https://charlyfullstackdevcommunity.blogspot.com)
