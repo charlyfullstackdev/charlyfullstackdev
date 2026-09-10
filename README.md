@@ -28,7 +28,7 @@ I architect technical solutions with an uncompromised focus on logic, security, 
 
 ## Network & Communications
 
-[![GitHub Website](https://img.shields.io/badge/Website-%230B1120.svg?style=for-the-badge&logo=google-chrome&logoColor=%2306B6D4&borderColor=%2306B6D4)](https://charlyfullstackdev.github.io)
+[![GitHub Website](https://img.shields.io/badge/GitHub-Website-%230B1120.svg?style=for-the-badge&logo=google-chrome&logoColor=%2306B6D4&borderColor=%2306B6D4)](https://charlyfullstackdev.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-%230B1120.svg?style=for-the-badge&logo=github&logoColor=%23F8FAFC&borderColor=%2306B6D4)](https://github.com/charlyfullstackdev)
 [![Daily.dev](https://img.shields.io/badge/Daily.dev-%230B1120.svg?style=for-the-badge&logo=dailydotdev&logoColor=%23F8FAFC&borderColor=%2306B6D4)](https://daily.dev/charlyfullstackdev)
 [![Reddit](https://img.shields.io/badge/Reddit-%230B1120.svg?style=for-the-badge&logo=reddit&logoColor=%23F8FAFC&borderColor=%2306B6D4)](https://reddit.com/user/charlyfullstackdev)
