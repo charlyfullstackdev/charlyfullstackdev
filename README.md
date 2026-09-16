@@ -16,7 +16,7 @@ JavaScript | Python | HTML | CSS | SQL/NoSQL Databases
 Linux | Git & GitHub | Cybersecurity
 
 ### Methodologies & Management
-Agile / SCRUM | UML Modeling | Systemic Analysis
+Agile / SCRUM | UML | Systemic Analysis
 
 ### Frontend Design & A.I.
 UI / UX | Minimalist Interface Design | Generative A.I. Integrations
