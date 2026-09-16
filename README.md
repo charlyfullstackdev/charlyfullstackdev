@@ -10,19 +10,19 @@
 I architect technical solutions with an uncompromised focus on logic, security, and market adaptability. My stack operates across front-end rendering, back-end infrastructure, and strategic digital marketing.
 
 ### Core Stack & Languages
-**JavaScript** | **Python** | **HTML** | **CSS** | **SQL/NoSQL Databases**
+JavaScript | Python | HTML | CSS | SQL/NoSQL Databases
 
 ### Infrastructure & Security
 Linux | Git & GitHub | Cybersecurity
 
 ### Methodologies & Management
-**Agile / SCRUM** | **UML Modeling** | **Systemic Analysis**
+Agile / SCRUM | UML Modeling | Systemic Analysis
 
 ### Frontend Design & A.I.
-**UI / UX** | **Minimalist Interface Design** | **Generative A.I. Integrations**
+UI / UX | Minimalist Interface Design | Generative A.I. Integrations
 
 ### Professional Capabilities
-**Digital Marketing** | **Spanish (Native)** | **English (C1)** | **French (A1)**
+Digital Marketing | Spanish (Native) | English (C1) | French (A1)
 
 ---
 
