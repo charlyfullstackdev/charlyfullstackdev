@@ -13,7 +13,7 @@ I architect technical solutions with an uncompromised focus on logic, security, 
 **JavaScript** | **Python** | **HTML** | **CSS** | **SQL/NoSQL Databases**
 
 ### Infrastructure & Security
-**Linux** | **Git & GitHub** | **Cybersecurity**
+Linux | Git & GitHub | Cybersecurity
 
 ### Methodologies & Management
 **Agile / SCRUM** | **UML Modeling** | **Systemic Analysis**
