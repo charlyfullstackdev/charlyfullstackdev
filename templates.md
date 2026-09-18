@@ -1,12 +1,8 @@
 <!-- Discord channels presentation -->
 
-Here is a fun, friendly, and Discord-ready template for your introduction. It uses simple Markdown that works perfectly on Discord (like bold text, italics, blockquotes, and bullet points) and includes plenty of emojis to keep the vibe welcoming! 
-
-***
-
 **Hello everyone!** 👋 
 
-My name is **Carlos Andres Rodriguez**, I'm 38 years old, and I was born in the beautiful city of Cali, Colombia 🇨🇴, though I currently live in Bogota. 
+My name is **Carlos Andres Rodriguez, @charlyfullstackdev**, I'm 38 years old, and I was born in the beautiful city of Cali, Colombia 🇨🇴, though I currently live in Bogota. 
 
 I used to be an English teacher, but I made a huge career switch and now I am a **self-taught Full-Stack Software Developer!** 💻🚀 It's been an amazing journey so far.
 
