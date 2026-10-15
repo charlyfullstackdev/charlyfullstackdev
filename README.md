@@ -14,7 +14,6 @@ UI | UX |HTML | CSS | JavaScript | Python | SQL | NoSQL | Linux | Git | GitHub |
 
 ## Network & Communications
 
-[![Website](https://img.shields.io/badge/Website-%230B1120.svg?style=for-the-badge&logo=google-chrome&logoColor=%2306B6D4&borderColor=%2306B6D4)](https://charlyfullstack.dev)
 [![GitHub Page](https://img.shields.io/badge/GitHubPage-%230B1120.svg?style=for-the-badge&logo=google-chrome&logoColor=%2306B6D4&borderColor=%2306B6D4)](https://charlyfullstackdev.github.io)
 [![Daily.dev](https://img.shields.io/badge/Daily.dev-%230B1120.svg?style=for-the-badge&logo=dailydotdev&logoColor=%23F8FAFC&borderColor=%2306B6D4)](https://daily.dev/charlyfullstackdev)
 [![Reddit](https://img.shields.io/badge/Reddit-%230B1120.svg?style=for-the-badge&logo=reddit&logoColor=%23F8FAFC&borderColor=%2306B6D4)](https://reddit.com/user/charlyfullstackdev)
