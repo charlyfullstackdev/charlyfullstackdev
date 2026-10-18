@@ -1,3 +1,5 @@
+![Software developer hands at his keyboard](charlyfullstackdev-main-banner.png)
+
 # Carlos Andres Rodriguez @charlyfullstackdev
 **Fullstack Software Developer**
 
@@ -5,10 +7,10 @@
 
 ## System Architecture & Competencies
 
-I architect technical solutions with an uncompromised focus on logic, security, and market adaptability. My stack operates across front-end rendering, back-end infrastructure, and strategic digital marketing.
+I develop technical solutions with an uncompromised focus on logic, security, and market adaptability. My stack operates across front-end rendering, back-end infrastructure, and strategic digital marketing.
 
 ### Core Stack & Languages
-UI | UX |HTML | CSS | JavaScript | Python | SQL | NoSQL | Linux | Git | GitHub | Cybersecurity | AI
+Linux | Google Workspace | Git | UI/UX | JavaScript | Python | SQL | AI | Cibersecurity
 
 ---
 
