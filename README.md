@@ -13,7 +13,7 @@
 I develop technical solutions with an uncompromised focus on logic, security, and market adaptability. My stack operates across front-end rendering, back-end infrastructure, and strategic digital marketing.
 
 ### Core Stack & Languages
-Linux | Google Workspace | Git | UI/UX | JavaScript | Python | SQL | AI | Cibersecurity
+Linux | Google Workspace | Git | UI/UX | JavaScript | Python | Databases | AI | Cibersecurity
 
 ---
 
